@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ruta",
+				"ruta_backup"
+			],
+			[
+				"rut",
+				"ruta_backup〔argument〕"
+			],
+			[
+				"is",
+				"isdir〔function〕"
+			],
+			[
+				"pa",
+				"path〔module〕"
+			],
+			[
+				"cop",
+				"copy2〔function〕"
+			],
+			[
+				"co",
+				"copy〔function〕"
+			],
+			[
+				"ta",
+				"tamano_archivo〔function〕"
+			],
+			[
+				"stat",
+				"statbuf"
+			],
+			[
+				"sta",
+				"statbuf"
+			],
+			[
+				"nu",
+				"numero_file〔variable〕"
+			],
+			[
+				"fe",
+				"fecha_detalle〔variable〕"
+			],
+			[
+				"fecha",
+				"fecha_modificacion〔function〕"
+			],
+			[
+				"tiempo",
+				"tiempo_modificacion"
+			],
+			[
+				"tiemp",
+				"tiempo_modificacion〔variable〕"
+			],
+			[
+				"indice",
+				"indices"
+			],
+			[
+				"ru",
+				"ruta_n"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"numero",
+				"numero_root〔variable〕"
+			],
+			[
+				"si",
+				"signo_offset〔argument〕"
+			],
+			[
+				"tm",
+				"tm_isdst"
+			],
+			[
+				"hora",
+				"hora_correcta〔variable〕"
+			],
+			[
+				"str",
+				"struct_time〔class〕"
+			],
+			[
+				"hor",
+				"hora_correcta〔variable〕"
+			],
+			[
+				"st",
+				"statbuf〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/short/settings.py",
+			"settings":
+			{
+				"buffer_size": 3093,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 606.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import os ",
+			"2+3",
+			"mapear2.py",
+			"python mapear2.py",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/marlon/Documents/Marlon/Personal/short",
+		"/C/Users/marlon/Documents/Marlon/Personal/short/src",
+		"/C/Users/marlon/Documents/Marlon/Personal/short/src/short"
+	],
+	"file_history":
+	[
+		"/C/Users/marlon/Desktop/Genericos.conf",
+		"/C/Users/marlon/Desktop/Payments.conf",
+		"/C/Users/marlon/Desktop/Http.log",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/pruebas.py",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/LibreriasUtilitarias.py",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/leerConfig.py",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/config.txt",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/Upgraderutilitarias/Lib/site-packages/pip/index.py",
+		"/C/Users/marlon/.virtualenvs/postactivate",
+		"/C/Users/marlon/Documents/Marlon/Implementacion/TareaMantenimientoMC/EasyMultichannelMantenainceV2/configuration/tracing.config",
+		"/C/Users/marlon/Documents/Marlon/Implementacion/TareaMantenimientoMC/EasyMultichannelMantenainceV2/App.config",
+		"/C/Instaladores/TestProdu/SRVCOM-Produ/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Users/marlon/Documents/Marlon/Personal/ejVarios/NumerosPrimos.py",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/web.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/EasyLogin/Web.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Menu/Web.Config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Respaldo/EasyLogin/Web.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Respaldo/Menu/Web.Config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Webbk.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/PrecompiledApp.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/packages.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/bin/Prometeus.exe.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/bin/conectividad.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/EasyLogin/PrecompiledApp.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Respaldo/Menu/PrecompiledApp.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Respaldo/EasyLogin/PrecompiledApp.config",
+		"/C/Instaladores/TestProdu/SRVWEB-Produ/Sitios/pubcashmanagement/easyafiliaciones/Menu/PrecompiledApp.config",
+		"/C/Instaladores/TestProdu/SRVMC-Produ/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Instaladores/Produbanco/SRVMC-Produ/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Instaladores/Austro/SRVSERVICIOS-Austro/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Instaladores/Austro/SRVWEB-Austro/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Users/marlon/Downloads/PosicionConsolidada.py",
+		"/C/Instaladores/Austro/SRVMULTICANAL-Austro/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Instaladores/Austro/SRVSERVICIOS-Austro/EasyCashManagement/ConfiguradorEasySoft/ConfiguracionEntradasConfigs.exe",
+		"/C/Users/marlon/Documents/Marlon/Implementacion/Instaladores/Austro/SRVSERVICIOS-Austro/inetpub/wwwroot/WSProcesaItems/Web.config",
+		"/C/Instaladores/Austro/SRVMULTICANAL-Austro/EasyCashManagement/ConfiguradorEasySoft/ConfiguracionEntradasConfigs.exe",
+		"/C/Users/marlon/Documents/Marlon/Implementacion/Instaladores/Austro/SRVMULTICANAL-Austro/EasyCashManagement/ConfiguradorEasySoft/ArchivoConfiguracion.xml",
+		"/C/Users/marlon/Documents/09.Easy_CS_Switch.sql",
+		"/C/Users/marlon/Desktop/EasyNotificador.exe.config",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/marlon/AppData/Local/Temp/7zO01BAC1FA/EasyConciliacion.exe.config",
+		"/C/Users/marlon/Desktop/PagosServicios.conf",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/arbol.txt",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/EasyCS/Easy_CS_Adapters/__init__.pyc",
+		"/C/Python27/Lib/os.py",
+		"/C/Users/marlon/Documents/Visual Studio 2015/Projects/LibreriasUtilitarias/LibreriasUtilitarias/mapear2.py",
+		"/C/Python27/Scripts/virtualenvwrapper.sh",
+		"/C/Users/marlon/Downloads/pyexiv2/pyexiv2-0.3.2.tar/pyexiv2-0.3.2/src/pyexiv2/utils.py",
+		"/C/Users/marlon/Downloads/pyexiv2/pyexiv2-0.3.2.tar/pyexiv2-0.3.2/src/pyexiv2/metadata.py",
+		"/C/Users/marlon/Downloads/pyexiv2/pyexiv2-0.3.2.tar/pyexiv2-0.3.2/src/examples.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NombreEmpresa",
+			"registrar_cuentas",
+			"isdir",
+			"ADConfiguracionNotificaciones.pyc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/short/settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "short.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
